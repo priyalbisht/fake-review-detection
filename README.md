@@ -1,4 +1,4 @@
-# Fake Review Detection in Online Customer Reviews Using Machine Learning Techniques
+# Fake Review Detection in Online Customer Reviews Using Unsupervised Machine Learning Techniques
 Detection of Fake Reviews on Flipkart using Machine Learning Architectures.
 
 The dataset used includes 15166 different reviews uploaded on the flipkart website.
